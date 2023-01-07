@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": [
+      {
+        "text": "Set your home coordinates.",
+        "color": "yellow"
+      },
+      {
+        "text": "\nhttps://ricr.dev",
+        "color": "gold"
+      }
+    ]
+  }
+}
